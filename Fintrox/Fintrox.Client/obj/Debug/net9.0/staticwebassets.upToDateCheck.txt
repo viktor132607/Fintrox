@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Users\vikto\source\repos\Fintrox\Fintrox\Fintrox.Client\wwwroot\appsettings.Development.json
+C:\Users\vikto\source\repos\Fintrox\Fintrox\Fintrox.Client\wwwroot\appsettings.json
